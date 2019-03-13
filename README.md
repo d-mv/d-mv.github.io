@@ -1,4 +1,4 @@
-# Homepage SPA
+# Homepage
 
 Repository for storing homepage SPA for [melnikov.dev](https://melnikov.dev).
 
