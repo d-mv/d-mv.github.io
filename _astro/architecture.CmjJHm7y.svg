@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="JetBrains Mono, monospace">
+  <rect width="800" height="400" fill="#f2f0ea"/>
+  
+  <!-- Ingestion -->
+  <rect x="50" y="100" width="120" height="200" fill="none" stroke="#0a0a0a" stroke-width="2"/>
+  <text x="60" y="130" font-size="12" fill="#0a0a0a">SOURCES</text>
+  <line x1="60" y1="140" x2="160" y2="140" stroke="#0a0a0a" stroke-width="1"/>
+  <text x="60" y="170" font-size="10" fill="#8a8880">· RSS/ATOM</text>
+  <text x="60" y="190" font-size="10" fill="#8a8880">· SMTP</text>
+  <text x="60" y="210" font-size="10" fill="#8a8880">· SCRAPER</text>
+
+  <!-- BEAM Circle -->
+  <circle cx="400" cy="200" r="100" fill="#0a0a0a"/>
+  <text x="365" y="195" font-size="16" fill="#f2f0ea" font-weight="bold">MASTHEAD</text>
+  <text x="375" y="215" font-size="12" fill="#8a8880">RUNTIME</text>
+
+  <!-- Output -->
+  <rect x="650" y="100" width="100" height="200" fill="none" stroke="#0a0a0a" stroke-width="2"/>
+  <text x="660" y="130" font-size="12" fill="#0a0a0a">EDITION</text>
+  <line x1="660" y1="140" x2="740" y2="140" stroke="#0a0a0a" stroke-width="1"/>
+  
+  <!-- Connectors -->
+  <line x1="170" y1="200" x2="300" y2="200" stroke="#0a0a0a" stroke-width="2" stroke-dasharray="4 2"/>
+  <line x1="500" y1="200" x2="650" y2="200" stroke="#0a0a0a" stroke-width="2"/>
+</svg>

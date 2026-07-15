@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" font-family="JetBrains Mono, monospace">
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Ant Design Style Header -->
+  <rect width="800" height="48" fill="#ffffff" stroke="#f0f0f0" stroke-width="1"/>
+  <circle cx="24" cy="24" r="8" fill="#1890ff"/>
+  <text x="44" y="29" font-size="14" font-weight="bold" fill="#000000">Pacioli Finance</text>
+  
+  <!-- Sidebar -->
+  <rect y="48" width="200" height="552" fill="#ffffff" stroke="#f0f0f0" stroke-width="1"/>
+  <g transform="translate(20, 80)">
+    <rect width="160" height="32" rx="4" fill="#e6f7ff"/>
+    <text x="12" y="21" font-size="13" fill="#1890ff">Dashboard</text>
+    <text x="12" y="61" font-size="13" fill="#595959">Ledger</text>
+    <text x="12" y="101" font-size="13" fill="#595959">Portfolio</text>
+    <text x="12" y="141" font-size="13" fill="#595959">Reports</text>
+  </g>
+
+  <!-- Main Content -->
+  <g transform="translate(224, 72)">
+    <text x="0" y="24" font-size="20" font-weight="bold" fill="#000000">General Ledger</text>
+    
+    <!-- Table -->
+    <g transform="translate(0, 56)">
+      <rect width="552" height="40" fill="#fafafa" stroke="#f0f0f0" stroke-width="1"/>
+      <text x="12" y="25" font-size="12" font-weight="bold" fill="#595959">Date</text>
+      <text x="120" y="25" font-size="12" font-weight="bold" fill="#595959">Description</text>
+      <text x="350" y="25" font-size="12" font-weight="bold" fill="#595959">Account</text>
+      <text x="480" y="25" font-size="12" font-weight="bold" fill="#595959">Amount</text>
+      
+      <!-- Row 1 -->
+      <g transform="translate(0, 40)">
+        <rect width="552" height="48" fill="#ffffff" stroke="#f0f0f0" stroke-width="1"/>
+        <text x="12" y="29" font-size="12" fill="#262626">2026-04-30</text>
+        <text x="120" y="29" font-size="12" fill="#262626">Portfolio Rebalance</text>
+        <text x="350" y="29" font-size="12" fill="#262626">Investment</text>
+        <text x="480" y="29" font-size="12" fill="#52c41a" font-weight="bold">+2,400.00</text>
+      </g>
+      
+      <!-- Row 2 -->
+      <g transform="translate(0, 88)">
+        <rect width="552" height="48" fill="#ffffff" stroke="#f0f0f0" stroke-width="1"/>
+        <text x="12" y="29" font-size="12" fill="#262626">2026-04-29</text>
+        <text x="120" y="29" font-size="12" fill="#262626">Office Lease</text>
+        <text x="350" y="29" font-size="12" fill="#262626">Expenses</text>
+        <text x="480" y="29" font-size="12" fill="#f5222d" font-weight="bold">-1,200.00</text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" font-family="JetBrains Mono, monospace">
+  <rect x="10" y="10" width="580" height="580" fill="none" stroke="#0a0a0a" stroke-width="2"/>
+  
+  <!-- Ledger Grid -->
+  <g stroke="#0a0a0a" stroke-width="1">
+    <line x1="100" y1="100" x2="500" y2="100"/>
+    <line x1="100" y1="150" x2="500" y2="150"/>
+    <line x1="100" y1="200" x2="500" y2="200"/>
+    <line x1="100" y1="250" x2="500" y2="250"/>
+    
+    <line x1="100" y1="100" x2="100" y2="500"/>
+    <line x1="300" y1="100" x2="300" y2="500" stroke-width="2"/>
+    <line x1="500" y1="100" x2="500" y2="500"/>
+  </g>
+
+  <!-- Balanced Elements -->
+  <rect x="120" y="115" width="60" height="20" fill="#0a0a0a"/>
+  <rect x="320" y="165" width="60" height="20" fill="#0a0a0a"/>
+  
+  <rect x="120" y="215" width="40" height="10" fill="#8a8880"/>
+  <rect x="320" y="215" width="40" height="10" fill="#8a8880"/>
+
+  <!-- Large Balance Circle -->
+  <circle cx="300" cy="400" r="100" fill="none" stroke="#0a0a0a" stroke-width="1" stroke-dasharray="10 5"/>
+  <circle cx="200" cy="400" r="20" fill="#0a0a0a"/>
+  <circle cx="400" cy="400" r="20" fill="#0a0a0a"/>
+  <line x1="200" y1="400" x2="400" y2="400" stroke="#0a0a0a" stroke-width="2"/>
+
+  <g font-size="10" fill="#8a8880" letter-spacing="2">
+    <text x="20" y="30">PACIOLI/1494</text>
+    <text x="510" y="30">SUMMA</text>
+    <text x="20" y="580">DEBIT</text>
+    <text x="510" y="580">CREDIT</text>
+  </g>
+</svg>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 943 533" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,-27.8073,-35.5668)">
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,-121.162,-207.402)">
+                <path d="M410,176.5C410,175.12 408.88,174 407.5,174L152.5,174C151.12,174 150,175.12 150,176.5L150,313.5C150,314.88 151.12,316 152.5,316L407.5,316C408.88,316 410,314.88 410,313.5L410,176.5Z" style="fill:rgb(8,66,123);stroke:rgb(7,59,111);stroke-width:0.5px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,134.338,-13.4024)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:white;">&lt;&lt;person&gt;&gt;</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,134.838,-3.40243)">
+                <use xlink:href="#_Image1" x="0" y="0" width="48px" height="48px"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,158.838,52.5976)">
+                <text x="-18.738px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:16px;fill:white;">User</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,158.838,94.5976)">
+                <text x="-129.678px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:14px;fill:white;">A person reading their Telegram feed.</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,-121.162,-207.402)">
+                <path d="M1065,176.5C1065,175.12 1063.88,174 1062.5,174L512.5,174C511.12,174 510,175.12 510,176.5L510,265.5C510,266.88 511.12,268 512.5,268L1062.5,268C1063.88,268 1065,266.88 1065,265.5L1065,176.5Z" style="fill:rgb(17,104,189);stroke:rgb(60,127,192);stroke-width:0.5px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,641.838,-13.4024)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:white;">&lt;&lt;system&gt;&gt;</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,666.338,4.59757)">
+                <text x="-99.762px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:16px;fill:white;">Telegram Feed Web App</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,666.338,29.5976)">
+                <g>
+                    <text x="-159.821px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:14px;fill:white;">React 19 SPA/PWA providing the river-of-news</text>
+                    <text x="-114px" y="14px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:14px;fill:white;">interface. Runs entirely in the browser.</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,-121.162,-207.402)">
+                <path d="M581,418.5C581,417.12 579.88,416 578.5,416L152.5,416C151.12,416 150,417.12 150,418.5L150,507.5C150,508.88 151.12,510 152.5,510L578.5,510C579.88,510 581,508.88 581,507.5L581,418.5Z" style="fill:rgb(153,153,153);stroke:rgb(138,138,138);stroke-width:0.5px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,195.338,228.598)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:white;">&lt;&lt;external_system&gt;&gt;</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,244.338,246.598)">
+                <text x="-92.379px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:16px;fill:white;">Telegram MTProto API</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,244.338,273.562)">
+                <g>
+                    <text x="-152.899px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:14px;fill:white;">Telegram&apos;s core servers for message delivery</text>
+                    <text x="-48.122px" y="14px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:14px;fill:white;">and authentication.</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,-121.162,-207.402)">
+                <path d="M1090,418.5C1090,417.12 1088.88,416 1087.5,416L683.5,416C682.12,416 681,417.12 681,418.5L681,507.5C681,508.88 682.12,510 683.5,510L1087.5,510C1088.88,510 1090,508.88 1090,507.5L1090,418.5Z" style="fill:rgb(153,153,153);stroke:rgb(138,138,138);stroke-width:0.5px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,715.338,228.598)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:white;">&lt;&lt;external_system&gt;&gt;</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,764.338,246.598)">
+                <text x="-44.727px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:16px;fill:white;">Logger API</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,764.338,273.562)">
+                <g>
+                    <text x="-144.826px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:14px;fill:white;">Remote ingestion service for warnings and</text>
+                    <text x="-44.14px" y="14px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:14px;fill:white;">errors (prod only).</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,-121.162,-207.402)">
+                <path d="M437,612.5C437,611.12 435.88,610 434.5,610L152.5,610C151.12,610 150,611.12 150,612.5L150,701.5C150,702.88 151.12,704 152.5,704L434.5,704C435.88,704 437,702.88 437,701.5L437,612.5Z" style="fill:rgb(153,153,153);stroke:rgb(138,138,138);stroke-width:0.5px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,123.338,422.598)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:white;">&lt;&lt;external_system&gt;&gt;</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,172.338,440.598)">
+                <text x="-54.109px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:16px;fill:white;">Google Fonts</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,172.338,475.598)">
+                <text x="-141.336px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:14px;fill:white;">Serves the &apos;M PLUS Rounded 1c&apos; web font.</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,-121.162,-207.402)">
+                <path d="M410,254.584L635.246,268" style="fill:none;fill-rule:nonzero;stroke:rgb(68,68,68);stroke-width:1px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,364.509,69.2694)">
+                <text x="-13.617px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:rgb(68,68,68);">Uses</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,396.009,86.2694)">
+                <text x="-52.462px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:rgb(68,68,68);">[Browser / HTTPS]</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,-121.162,-207.402)">
+                <path d="M764,268C723.192,317.333 641.577,366.667 519.154,416" style="fill:none;fill-rule:nonzero;stroke:rgb(68,68,68);stroke-width:1px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,574.415,134.598)">
+                <text x="-57.478px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:rgb(68,68,68);">Communicates with</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,588.915,151.598)">
+                <text x="-75.973px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:rgb(68,68,68);">[MTProto over WebSocket]</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,-121.162,-207.402)">
+                <path d="M848.567,268C859.001,317.333 879.868,366.667 911.169,416" style="fill:none;fill-rule:nonzero;stroke:rgb(68,68,68);stroke-width:1px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,798.706,134.598)">
+                <text x="-42.844px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:rgb(68,68,68);">Ingests logs to</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,798.706,151.598)">
+                <text x="-43.582px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:rgb(68,68,68);">[HTTPS / JSON]</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,-121.162,-207.402)">
+                <path d="M766.433,268C700.448,382 568.479,496 370.524,610" style="fill:none;fill-rule:nonzero;stroke:rgb(68,68,68);stroke-width:1px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,490.817,231.598)">
+                <text x="-46.638px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:rgb(68,68,68);">Loads font from</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,70)">
+            <g transform="matrix(1,0,0,1,490.817,248.598)">
+                <text x="-22.447px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:rgb(68,68,68);">[HTTPS]</text>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image1" width="48px" height="48px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADNUlEQVRoge2ZP0hbURTGP1spESK8uOW5mObPUFzyoqOKr1CHdBBdUqSDWheXgmmnBimSTe0mQkPtUtssOjUFW0hJBZea2CG0kEZeOySBDnkBA2Zrh8Qi+m7iO/cmaaC/Mbxzz/neO/fec066LOqT3+hgrrU7AF66RS84rjgxPTYIh90GqbcHAKAVdBxlcthJpPGjoAv11yUqheb8QwgvTMBWC5pFPJlFKPIeR9/zItzyC5CsFsRWZ6F4+k3ZhSJ7WI/u87gGAFzvdow+pRpLVgu+vgriptxn2lb1uWC50Y2PqWOqewCcmzi2OtswZerx6N4o5vxDPCHQBQQDI6bTxoiNpUlIVgvZniRAsloQXpggO70Iz1okAVNjg2SHRszfHSbbkgRMCxYAVO8PCiQBXgG5fxHFI5PsSAJ4Th4WkpW2ZsfXQiQBWr4oOg5oBdqaJAEpQXXMeTRikUcSEE9mSc5Y6Cen5JKCJGArdgj95JTk0IgXbz+TbcmbeD36iexU5FocAvaFpNLMShSlcoVsz3WMzqxEuU6kUGQPu4k0Twh8AkrlCm7df0b6EjMr0fY3NGe8/vAF337+guKWG97SO4k0bj98/u+0lBfxumWoPie8nn7YanW+VtCRyuSwm0hz5bsRwgW0mo6vhUhzoQG7DYqnvzr7qVWRu4n0lfN6amwQXne1fNYKxb9zI0p6mUqhYGAE8/5hOBhTCC1fRDx1jFQmB62go1S7raXeHigeGarihOpzMdePJ7NYi+6bKiuuJGBccWJ7OdCUPsCIeDJ75Quu4R4IBkbwjnN8YhbV58LB5iIG7LaGz9YVcDYubAcOuQ8Hm4sNRy5MAV63jI2lSeGBmcHW24Pt5UDdZ5gCwgt3hAdEQfW56o5xDAVUb1P2adFqwg/YL9NQAM+gqRk45D7mhjYUoBKHTM2EFZOhANZF1U4cduOYLgngmRQ3E9ZL7ZhizsZ4sR0jgMV/Aa1CZxR2lwSUyhWhQytRHGVyhr8bfoFQZK+pwZhFPzllTu8MBWzFDrH2RtzkjQctX4T/8Utmb1C3oZGslup0oYW9wHm0fLFhm1q3Jy6VK9x/RDebjjmFWPwBuRj+ulFazHgAAAAASUVORK5CYII="/>
+    </defs>
+</svg>

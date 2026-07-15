@@ -1,0 +1,31 @@
+<svg width="800" height="400" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" fill="#F4F4F4"/>
+  
+  <!-- Phoenix Core -->
+  <rect x="300" y="100" width="200" height="150" fill="white" stroke="black" stroke-width="2"/>
+  <text x="400" y="165" font-family="monospace" font-size="14" text-anchor="middle" font-weight="bold" fill="black">PHOENIX</text>
+  <text x="400" y="185" font-family="monospace" font-size="10" text-anchor="middle" fill="#666">LiveView + MCP</text>
+  
+  <!-- Supabase -->
+  <rect x="300" y="300" width="200" height="60" fill="#E23E2A"/>
+  <text x="400" y="335" font-family="monospace" font-size="12" text-anchor="middle" fill="white">SUPABASE</text>
+  
+  <!-- User Interface -->
+  <circle cx="150" cy="175" r="50" fill="#2A56E2"/>
+  <text x="150" y="180" font-family="monospace" font-size="12" text-anchor="middle" fill="white">USER</text>
+  
+  <!-- AI / MCP -->
+  <path d="M600 125L700 175L600 225Z" fill="#E2B62A"/>
+  <text x="635" y="180" font-family="monospace" font-size="12" text-anchor="middle" fill="black">AI</text>
+  
+  <!-- Connections -->
+  <path d="M200 175H300" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M500 175H600" stroke="black" stroke-width="2" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+  <path d="M400 250V300" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="black" />
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" font-family="JetBrains Mono, monospace">
+  <rect x="10" y="10" width="580" height="580" fill="none" stroke="#0a0a0a" stroke-width="2"/>
+  
+  <!-- Masthead "M" Composition -->
+  <path d="M100,500 L100,100 L300,300 L500,100 L500,500" fill="none" stroke="#0a0a0a" stroke-width="40" stroke-linejoin="bevel"/>
+  
+  <!-- Abstract "News" bars -->
+  <rect x="150" y="350" width="300" height="8" fill="#8a8880"/>
+  <rect x="150" y="370" width="200" height="8" fill="#8a8880"/>
+  
+  <!-- Rotating "Daily" circle -->
+  <circle cx="300" cy="180" r="40" fill="#0a0a0a">
+    <animateTransform attributeName="transform" type="rotate" from="0 300 180" to="360 300 180" dur="15s" repeatCount="indefinite" />
+  </circle>
+
+  <g font-size="10" fill="#8a8880" letter-spacing="2">
+    <text x="20" y="30">MASTHEAD/01</text>
+    <text x="510" y="30">LIVE</text>
+    <text x="20" y="580">BEAM/CORE</text>
+    <text x="510" y="580">2026</text>
+  </g>
+</svg>

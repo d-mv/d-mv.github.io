@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" font-family="JetBrains Mono, monospace">
+  <rect x="10" y="10" width="580" height="580" fill="none" stroke="#0a0a0a" stroke-width="2"/>
+  
+  <!-- Lock Symbol Composition -->
+  <path d="M200,300 L200,200 C200,140 240,100 300,100 C360,100 400,140 400,200 L400,300" fill="none" stroke="#0a0a0a" stroke-width="40"/>
+  <rect x="150" y="300" width="300" height="200" fill="#0a0a0a"/>
+  
+  <!-- Keyhole / Core -->
+  <circle cx="300" cy="400" r="30" fill="#f2f0ea"/>
+  <rect x="290" y="420" width="20" height="40" fill="#f2f0ea"/>
+
+  <!-- Communication waves -->
+  <g stroke="#8a8880" stroke-width="2" fill="none">
+    <circle cx="300" cy="400" r="150" stroke-dasharray="10 20"/>
+    <circle cx="300" cy="400" r="220" stroke-dasharray="5 15"/>
+  </g>
+
+  <g font-size="10" fill="#8a8880" letter-spacing="2">
+    <text x="20" y="30">PHEME/01</text>
+    <text x="510" y="30">E2EE</text>
+    <text x="20" y="580">PRIVATE</text>
+    <text x="510" y="580">STREAMS</text>
+  </g>
+</svg>

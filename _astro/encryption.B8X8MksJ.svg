@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" font-family="JetBrains Mono, monospace">
+  <rect width="600" height="400" fill="#f2f0ea"/>
+  
+  <!-- Encryption Layering Diagram -->
+  <g transform="translate(100, 50)">
+    <rect x="0" y="0" width="400" height="300" fill="none" stroke="#0a0a0a" stroke-width="0.5"/>
+    <text x="20" y="30" font-size="14" font-weight="bold" fill="#0a0a0a">E2EE SCHEMATIC</text>
+    
+    <!-- Layers -->
+    <rect x="50" y="60" width="300" height="60" fill="#0a0a0a"/>
+    <text x="60" y="95" fill="#f2f0ea" font-size="12">LAYER 01: MESSAGE (AES-GCM)</text>
+    
+    <rect x="70" y="140" width="260" height="60" fill="#8a8880"/>
+    <text x="80" y="175" fill="#0a0a0a" font-size="12">LAYER 02: KEY DERIVATION (HKDF)</text>
+    
+    <rect x="90" y="220" width="220" height="60" fill="none" stroke="#0a0a0a" stroke-width="2"/>
+    <text x="100" y="255" fill="#0a0a0a" font-size="12">LAYER 03: IDENTITY (Ed25519)</text>
+  </g>
+</svg>
